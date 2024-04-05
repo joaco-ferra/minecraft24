@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "SKLworld.aternos.me",
+		"port": "33622",
+		"username": "pepetoriyama"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 500000000,
+		"retryDelay": 15
+	}
+}
